@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-07-25T00:58:41 IST" name="Suite" finished-at="2026-07-25T00:58:50 IST" duration-ms="9025">
+  <suite started-at="2026-07-25T02:20:40 IST" name="Suite" finished-at="2026-07-25T02:20:45 IST" duration-ms="5269">
     <groups>
     </groups>
-    <test started-at="2026-07-25T00:58:41 IST" name="Test" finished-at="2026-07-25T00:58:50 IST" duration-ms="9025">
+    <test started-at="2026-07-25T02:20:40 IST" name="Test" finished-at="2026-07-25T02:20:45 IST" duration-ms="5269">
       <class name="TestCases.GitHubApiTest">
-        <test-method is-config="true" signature="getUrl()[pri:0, instance:TestCases.GitHubApiTest@5d0bf09b]" started-at="2026-07-25T00:58:41 IST" name="getUrl" finished-at="2026-07-25T00:58:41 IST" duration-ms="782" status="PASS">
+        <test-method is-config="true" signature="getUrl()[pri:0, instance:TestCases.GitHubApiTest@5d0bf09b]" started-at="2026-07-25T02:20:40 IST" name="getUrl" finished-at="2026-07-25T02:20:41 IST" duration-ms="781" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getUrl -->
-        <test-method signature="CreateRepo()[pri:0, instance:TestCases.GitHubApiTest@5d0bf09b]" started-at="2026-07-25T00:58:41 IST" name="CreateRepo" finished-at="2026-07-25T00:58:50 IST" duration-ms="8156" status="PASS">
+        <test-method signature="CreateRepo()[pri:0, instance:TestCases.GitHubApiTest@5d0bf09b]" started-at="2026-07-25T02:20:41 IST" name="CreateRepo" finished-at="2026-07-25T02:20:45 IST" duration-ms="4418" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CreateRepo -->

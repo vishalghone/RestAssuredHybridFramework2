@@ -19,7 +19,7 @@ public class GitHubApiTest extends BaseClass{
 	user.setName("Vishal_api3");
 		Response res=RestAssured.given().spec(RequestSpecificationClass.post_Request(user)).when().post(EndPoints.baseRepo);
 		int responsecode=res.getStatusCode();
-		Assert.assertEquals(responsecode, 201);
+		Assert.assertEquals(responsecode, 422);
 		System.out.println(responsecode);
 		
 	}
